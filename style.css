@@ -1,14 +1,48 @@
 
+html{
+  background-color: cyan;
+}
+
   h1 {
     text-align: center;
+    color: white;
+    background-color: black;
+    border: 10px dashed red;
+    padding: 50px;
+    margin: 25px;
   }
 
   nav {
     text-align: center;
   }
+
   h2 {
     text-align: center;
+    color: white;
+    background-color: black;
+    border: 10px solid red;
+    margin: 40px;
+    padding: 30px;
   }
+
+  h3 {
+    color: blue;
+  }
+
   p {
     text-align: center;
+    color: white;
+    background-color: grey;
+    border: 2px dashed black;
+    padding: 50px;
+    margin: 25px;
+  }
+
+  li {
+    text-align: center;
+    background-color: magenta;
+    color: white;
+    border: 3px dashed white;
+    padding: 20px;
+    margin: 10px;
   }
